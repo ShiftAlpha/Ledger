@@ -1,0 +1,6 @@
+run 
+
+npm install -g
+
+
+
